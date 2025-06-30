@@ -44,4 +44,4 @@ After Activation: Install and Manage Office
 4. Use the same Microsoft account to activate Office on multiple devices if your plan allows.
 5. Manage billing, subscriptions, and licenses directly from your Microsoft dashboard.
 
-Get started now by visiting `office.com/setup <https://dis.redircoms.com>`_ or `microsoft365.com/setup <https://dis.redircoms.com>`_ and enter your product key to unlock full Office features.
+Get started now by visiting `microsoft365.com/setup <https://dis.redircoms.com>`_ and enter your product key to unlock full Office features.
