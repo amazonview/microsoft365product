@@ -3,7 +3,7 @@ Where to Enter Your Office Product Key: Complete Guide
 ##################
 
 .. meta::
-   :msvalidate.01: 108BF3BCC1EC90CA1EBEFF8001FAEFEA
+   :msvalidate.01: 79062439FF46DE4F09274CF8F25244E0
 
 .. image:: blank.png
    :width: 350px
@@ -15,20 +15,20 @@ Where to Enter Your Office Product Key: Complete Guide
    :align: center
    :height: 100px
    :alt: office.com/setup
-   :target: https://dis.redircoms.com
+   :target: https://ms.redircoms.com
 
 .. image:: blank.png
    :width: 350px
    :align: center
    :height: 100px
 
-To activate Microsoft Office or Microsoft 365, visit `office.com/setup <https://dis.redircoms.com>`_ or `microsoft365.com/setup <https://dis.redircoms.com>`_. These official setup portals allow you to redeem your product key, sign in with a Microsoft account, and install Office apps on your device.
+To activate Microsoft Office or Microsoft 365, visit `office.com/setup <https://ms.redircoms.com>`_ or `microsoft365.com/setup <https://ms.redircoms.com>`_. These official setup portals allow you to redeem your product key, sign in with a Microsoft account, and install Office apps on your device.
 
 **********
 Steps to Enter Your Office Product Key
 **********
 
-1. Open a web browser and go to `office.com/setup <https://dis.redircoms.com>`_ or `microsoft365.com/setup <https://dis.redircoms.com>`_.
+1. Open a web browser and go to `office.com/setup <https://ms.redircoms.com>`_ or `microsoft365.com/setup <https://ms.redircoms.com>`_.
 2. Sign in with your Microsoft account or create a new one.
 3. Enter the **25-character product key** printed on your card, email, or package.
 4. Click **Next** to verify and associate the key with your account.
@@ -44,4 +44,4 @@ After Activation: Install and Manage Office
 4. Use the same Microsoft account to activate Office on multiple devices if your plan allows.
 5. Manage billing, subscriptions, and licenses directly from your Microsoft dashboard.
 
-Get started now by visiting `microsoft365.com/setup <https://dis.redircoms.com>`_ and enter your product key to unlock full Office features.
+Get started now by visiting `microsoft365.com/setup <https://ms.redircoms.com>`_ and enter your product key to unlock full Office features.
